@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-
 	"module_provider/foo"
 	"module_provider/bar"
 )
